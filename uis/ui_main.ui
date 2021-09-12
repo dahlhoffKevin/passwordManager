@@ -149,9 +149,9 @@ border: 0px solid;</string>
          <widget class="QLabel" name="time">
           <property name="geometry">
            <rect>
-            <x>270</x>
+            <x>250</x>
             <y>10</y>
-            <width>41</width>
+            <width>61</width>
             <height>21</height>
            </rect>
           </property>
@@ -191,10 +191,10 @@ border: 0px solid;</string>
          <widget class="QLabel" name="date">
           <property name="geometry">
            <rect>
-            <x>520</x>
+            <x>500</x>
             <y>10</y>
-            <width>41</width>
-            <height>16</height>
+            <width>61</width>
+            <height>20</height>
            </rect>
           </property>
           <property name="font">
@@ -483,7 +483,7 @@ QPushButton:hover {
              </font>
             </property>
             <property name="currentIndex">
-             <number>0</number>
+             <number>1</number>
             </property>
             <widget class="QWidget" name="page_account">
              <widget class="QLabel" name="headline_account">
@@ -597,9 +597,9 @@ QPushButton:hover {
              <widget class="QPushButton" name="btn_change_password">
               <property name="geometry">
                <rect>
-                <x>240</x>
+                <x>220</x>
                 <y>360</y>
-                <width>151</width>
+                <width>171</width>
                 <height>31</height>
                </rect>
               </property>
@@ -697,9 +697,9 @@ QPushButton:hover {
                <widget class="QLabel" name="app">
                 <property name="geometry">
                  <rect>
-                  <x>300</x>
+                  <x>260</x>
                   <y>92</y>
-                  <width>161</width>
+                  <width>201</width>
                   <height>31</height>
                  </rect>
                 </property>
@@ -754,9 +754,9 @@ QPushButton:hover {
                <widget class="QLabel" name="password">
                 <property name="geometry">
                  <rect>
-                  <x>300</x>
+                  <x>260</x>
                   <y>149</y>
-                  <width>161</width>
+                  <width>201</width>
                   <height>41</height>
                  </rect>
                 </property>
@@ -775,9 +775,9 @@ QPushButton:hover {
                <widget class="QLabel" name="email">
                 <property name="geometry">
                  <rect>
-                  <x>300</x>
+                  <x>260</x>
                   <y>119</y>
-                  <width>161</width>
+                  <width>201</width>
                   <height>41</height>
                  </rect>
                 </property>
@@ -832,9 +832,9 @@ QPushButton:hover {
                <widget class="QLabel" name="username">
                 <property name="geometry">
                  <rect>
-                  <x>300</x>
+                  <x>260</x>
                   <y>189</y>
-                  <width>161</width>
+                  <width>201</width>
                   <height>21</height>
                  </rect>
                 </property>
@@ -853,9 +853,9 @@ QPushButton:hover {
                <widget class="QPushButton" name="button_add_password">
                 <property name="geometry">
                  <rect>
-                  <x>380</x>
+                  <x>370</x>
                   <y>230</y>
-                  <width>121</width>
+                  <width>141</width>
                   <height>31</height>
                  </rect>
                 </property>
@@ -876,7 +876,7 @@ QPushButton:hover {
                  <rect>
                   <x>380</x>
                   <y>290</y>
-                  <width>131</width>
+                  <width>161</width>
                   <height>17</height>
                  </rect>
                 </property>
@@ -895,9 +895,9 @@ QPushButton:hover {
                <widget class="QLabel" name="necessary_info">
                 <property name="geometry">
                  <rect>
-                  <x>350</x>
+                  <x>330</x>
                   <y>40</y>
-                  <width>211</width>
+                  <width>251</width>
                   <height>31</height>
                  </rect>
                 </property>
@@ -1281,8 +1281,8 @@ p, li { white-space: pre-wrap; }
                <rect>
                 <x>570</x>
                 <y>10</y>
-                <width>61</width>
-                <height>51</height>
+                <width>71</width>
+                <height>61</height>
                </rect>
               </property>
               <property name="font">
@@ -1306,10 +1306,10 @@ p, li { white-space: pre-wrap; }
              <widget class="QLabel" name="password_manager">
               <property name="geometry">
                <rect>
-                <x>200</x>
+                <x>160</x>
                 <y>10</y>
-                <width>321</width>
-                <height>51</height>
+                <width>401</width>
+                <height>61</height>
                </rect>
               </property>
               <property name="font">
@@ -1329,7 +1329,7 @@ p, li { white-space: pre-wrap; }
                <rect>
                 <x>230</x>
                 <y>100</y>
-                <width>101</width>
+                <width>111</width>
                 <height>41</height>
                </rect>
               </property>
@@ -1374,7 +1374,7 @@ p, li { white-space: pre-wrap; }
                 <x>310</x>
                 <y>10</y>
                 <width>241</width>
-                <height>64</height>
+                <height>81</height>
                </rect>
               </property>
               <property name="font">

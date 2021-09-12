@@ -41,9 +41,9 @@
    <widget class="QLabel" name="label_pwd">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>110</x>
       <y>100</y>
-      <width>171</width>
+      <width>211</width>
       <height>21</height>
      </rect>
     </property>
@@ -62,9 +62,9 @@
    <widget class="QLabel" name="label_con_new_pwd">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>110</x>
       <y>130</y>
-      <width>171</width>
+      <width>211</width>
       <height>41</height>
      </rect>
     </property>
@@ -83,9 +83,9 @@
    <widget class="QLabel" name="label_old_pwd">
     <property name="geometry">
      <rect>
-      <x>150</x>
+      <x>110</x>
       <y>190</y>
-      <width>171</width>
+      <width>211</width>
       <height>41</height>
      </rect>
     </property>
@@ -192,7 +192,7 @@ QPushButton:hover {
      <x>0</x>
      <y>0</y>
      <width>767</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
